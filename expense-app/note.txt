@@ -1,0 +1,8 @@
+
+
+Installed
+==========
+==========
+
+npm i @types/uuid uuid
+npm i class-transformer class-validator
