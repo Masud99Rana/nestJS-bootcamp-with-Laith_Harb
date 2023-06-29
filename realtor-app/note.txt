@@ -1,4 +1,8 @@
 
+Links
+====================
+https://www.udemy.com/course/the-nest-js-bootcamp-complete-developer-guide/
+https://github.com/harblaith7/NestJS-Udemy-Course
 
 
 Installed Packages
