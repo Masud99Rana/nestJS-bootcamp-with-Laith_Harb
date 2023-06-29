@@ -1,0 +1,14 @@
+
+
+
+Installed Packages
+========================
+
+
+npm i class-transformer class-validator
+
+npm i bcryptjs @types/bcryptjs
+npm i jsonwebtoken @types/jsonwebtoken
+
+npm i prisma @prisma/client
+
